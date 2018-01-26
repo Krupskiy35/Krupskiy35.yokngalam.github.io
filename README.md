@@ -1,6 +1,6 @@
 # Krupskiy35.yokngalam.github.io
 
-# Krupskiy35.tatoo-site.github.io
+
 Author: Krupskiy Andrey
 
 Cross-browser compatibility: IE9+.
